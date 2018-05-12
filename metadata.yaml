@@ -1,0 +1,33 @@
+_repo: A-Change-of-Air_45749
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45749-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hope, Anthony
+    alias: Hawkins, Anthony Hope
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '63'
+    url: http://www.gutenberg.org/2009/agents/63
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Hope
+description: In this 1893 novel, a young poet, Dale Bannister, suddenly finds himself
+  possessed of fame and fortune. He moves to the town of Denborough, where he acquires
+  an enemy, Squire Delane, and an equally unwelcome acolyte, Dr. Roberts.
+gutenberg_issued: '2014-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Country homes -- Fiction'
+- !lcsh 'Fame -- Fiction'
+- !lcsh 'Poets -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+title: A Change of Air
+url: http://www.gutenberg.org/ebooks/45749
