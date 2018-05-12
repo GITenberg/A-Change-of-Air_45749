@@ -15,6 +15,8 @@ creator:
 description: In this 1893 novel, a young poet, Dale Bannister, suddenly finds himself
   possessed of fame and fortune. He moves to the town of Denborough, where he acquires
   an enemy, Squire Delane, and an equally unwelcome acolyte, Dr. Roberts.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45749#A-Change-of-Air
 gutenberg_issued: '2014-05-24'
 gutenberg_type: Text
 identifiers:
